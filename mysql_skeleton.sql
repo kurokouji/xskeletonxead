@@ -1,3 +1,4 @@
+-- mysql_skeleton.sql
 CREATE DATABASE  IF NOT EXISTS `skeleton` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `skeleton`;
 -- MySQL dump 10.13  Distrib 5.5.16, for Win32 (x86)

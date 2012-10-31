@@ -1,3 +1,4 @@
+-- pgsql_skeleton.sql
 -- xead skeleton apache derby からの修正点
 -- INT(10)　-> integer
 -- SMALLINT(5)　-> smallint
